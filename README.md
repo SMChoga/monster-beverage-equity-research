@@ -30,18 +30,20 @@ However, despite these competitive advantages, the company's valuation presents 
 - **Valuation:** Discounted cash flow and comparable-company analysis.
 - **Risks:** Regulatory scrutiny, distribution concentration, competitive pressure, and valuation sensitivity.
 
-### Explore the Research
+## Explore the Research
 
-The complete equity research report and supporting financial models are available below in their original Microsoft Word and Excel formats.
+Explore the complete equity research report and supporting financial models below.
 
-**To review a document:** Click the corresponding research deliverable below, then select **Download raw file** (or the download icon) on GitHub to download and open it in Microsoft Word or Excel.
+**Equity Research Report:** Click the PDF link to view the full investment thesis directly on GitHub, with the option to download a copy.
+
+**Financial Models:** The supporting Excel workbooks are available for download. Click a model below, select **Download raw file** (or the download icon), and open it in Microsoft Excel to explore the underlying assumptions, calculations, and valuation methodologies.
 
 | Research Deliverable | Description |
 |---|---|
-| [Equity Research Thesis](Monster_Beverage_Equity_Research_Thesis_8.18.2026.docx.pdf) | Complete investment thesis and HOLD recommendation |
-| [DCF Valuation Model](aMonster%20-%20DCF.xlsx) | Intrinsic valuation and financial projections |
-| [Financial Analysis](aMonster%20-%20Financial%20Analysis.xlsx) | Historical financial performance and key ratios |
-| [Trading Comparables](aMonster%20-%20Trading%20Comps.xlsx) | Relative valuation and peer analysis |
+| [Equity Research Report (PDF)](Monster_Beverage_Equity_Research_Thesis.pdf) | Complete investment thesis, valuation analysis, and HOLD recommendation |
+| [DCF Valuation Model (Excel)](aMonster%20-%20DCF.xlsx) | Intrinsic valuation and financial projections |
+| [Financial Analysis (Excel)](aMonster%20-%20Financial%20Analysis.xlsx) | Historical financial performance and key ratios |
+| [Trading Comparables (Excel)](aMonster%20-%20Trading%20Comps.xlsx) | Relative valuation and peer analysis |
 
 ## About This Project
 
