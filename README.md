@@ -30,7 +30,11 @@ However, despite these competitive advantages, the company's valuation presents 
 - **Valuation:** Discounted cash flow and comparable-company analysis.
 - **Risks:** Regulatory scrutiny, distribution concentration, competitive pressure, and valuation sensitivity.
 
-## Explore the Research
+### Explore the Research
+
+The complete equity research report and supporting financial models are available below in their original Microsoft Word and Excel formats.
+
+**To review a document:** Click the corresponding research deliverable below, then select **Download raw file** (or the download icon) on GitHub to download and open it in Microsoft Word or Excel.
 
 | Research Deliverable | Description |
 |---|---|
