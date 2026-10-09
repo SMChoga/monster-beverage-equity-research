@@ -38,7 +38,7 @@ The complete equity research report and supporting financial models are availabl
 
 | Research Deliverable | Description |
 |---|---|
-| [Equity Research Thesis](aMonster_Beverage_Equity_Research_Thesis_8.18.2026.docx.pdf) | Complete investment thesis and HOLD recommendation |
+| [Equity Research Thesis](Monster_Beverage_Equity_Research_Thesis_8.18.2026.docx.pdf) | Complete investment thesis and HOLD recommendation |
 | [DCF Valuation Model](aMonster%20-%20DCF.xlsx) | Intrinsic valuation and financial projections |
 | [Financial Analysis](aMonster%20-%20Financial%20Analysis.xlsx) | Historical financial performance and key ratios |
 | [Trading Comparables](aMonster%20-%20Trading%20Comps.xlsx) | Relative valuation and peer analysis |
